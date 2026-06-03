@@ -37,36 +37,32 @@ This is a Java console-based Number Guessing Game where players try to guess a r
 5. Guess the secret number.
 6. View your score and play again if desired.
 
-## 📸 Screenshots
+## 🖥️ Screenshots
 
-### 🏠 Home Screen
-
-![Home Screen](Screenshots/game-home-screen.png)
+### 🏠 Game Home Screen
+![Game Home Screen](Screenshorts/game-home-screen.png)
 
 ### 🎯 Difficulty Selection
+![Difficulty Selection](Screenshorts/difficulty-selection.png)
 
-![Difficulty Selection](Screenshots/difficulty-selection.png)
-
-### 🎮 Gameplay and Hint System
-
-![Gameplay and Hint System](Screenshots/gameplay-hints.png)
+### 💡 Gameplay with Hints
+![Gameplay Hints](Screenshorts/gameplay-hints.png)
 
 ### 🏆 Winning Screen
-
-![Winning Screen](Screenshots/winning-screen.png)
-
-### 🔄 Play Again Feature
-
-![Play Again Feature](Screenshots/play-again-feature.png)
+![Winning Screen](Screenshorts/winning-screen.png)
 
 ### 💀 Game Over Screen
+![Game Over Screen](Screenshorts/game-over-screen.png)
 
-![Game Over Screen](Screenshots/game-over-screen.png)
+### 🔁 Play Again Feature
+![Play Again](Screenshorts/play-again-feature.png)
 
 ### 👋 Exit Message
+![Exit Message](Screenshorts/exit-message.png)
 
-![Exit Message](Screenshots/exit-message.png)
+---
 
+## 📁 Project Structure
 ## 📚 Learning Outcomes
 
 Through this project, I gained hands-on experience in:
